@@ -73,7 +73,7 @@ The trained model generates synthetic medical images that closely resemble real 
 This project is available for educational and research purposes.
 
 ## Author
-Bhavv
+Bhavana Meravanige Veerappa
 
 ## Acknowledgments
 This implementation is based on the original DCGAN paper and adapted for medical image synthesis applications.
